@@ -1,9 +1,6 @@
 # Auth Page
-
-This repository contains a small sign-in / sign-up static page demo.
-
-Below are two placeholder screenshots (PNG). They are embedded as data URIs so they display in the README immediately. Replace them with real screenshots by adding PNG files to the `assets/` folder and updating the image paths.
-
+A small static sign-in / sign-up UI demo — a front-end page that shows the authentication screens (forms for entering email/username and password, and a sign-up form).
+Intended for demonstrating the UI and client-side behavior (form layout, styling, basic validation) rather than a full backend-auth system.
 ## Screenshots
 
 ![Dashboard Overview](images/signin.png)
